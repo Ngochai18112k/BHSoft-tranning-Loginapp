@@ -1,0 +1,31 @@
+.app {
+    height: 100vh;
+    background-color: springgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-wrapper {
+    width: 40%;
+}
+
+form {
+    background-color: rgb(178, 190, 181);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+        rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+button {
+    width: 40%;
+}
+
+.home {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
